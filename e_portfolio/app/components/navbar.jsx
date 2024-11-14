@@ -15,7 +15,7 @@ function navbar() {
       <div className="font-style-navbar">Home</div> 
     </Link>
     <Link className="division-cell" href="/acad_works">
-      <div className="font-style-navbar">Academic Work</div> 
+      <div className="font-style-navbar">Acad Works</div> 
     </Link>
     <Link className="division-cell" href="/resume">
     <div className="font-style-navbar">Resume</div></Link>

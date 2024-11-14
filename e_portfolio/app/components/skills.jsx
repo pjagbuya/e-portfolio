@@ -16,7 +16,7 @@ function skills() {
         <p className="card-title  align-middle">Leadership Skills</p>
         </div>
        
-        <p className="card-description">Experienced in AGILE project management and Web Development Manager. Academic Club President in Junior High School and an External Affair President during my time in De La Salle University</p>
+        <p className="card-description">Experienced in AGILE project management and Web Development Manager. Academic Club President in Junior High School and an External Affair Vice President during my time in De La Salle University</p>
       </div>
     </div>
 

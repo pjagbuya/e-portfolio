@@ -17,6 +17,29 @@ h1, h2 {
   color:#483FD3;
   @apply text-2xl;
 }
+
+.sub-h{
+
+  text-shadow: #fff 0px 1px;
+  color:#483FD3;
+  @apply text-2xl;
+}
+.sub-h2{
+
+  text-shadow: #fff 0px 1px;
+  color:#483FD3;
+  @apply text-lg
+ 
+}
+
+.no-shadows{
+  text-shadow: none;
+}
+
+.text-amber{
+  @apply text-amber-900
+}
+
 main {
   
   @apply max-w-7xl my-12 mx-auto px-8;

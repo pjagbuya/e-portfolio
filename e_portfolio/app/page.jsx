@@ -14,6 +14,10 @@ export default function Home() {
       
       <h2 className="flex justify-center font-extrabold text-6xl white-text-shadow ">Paul Josef P. Agbuya</h2>
       <h2 className="flex justify-center font-extrabold text-1xl sub-h">Graduate in BS Computer Science of De La Salle University</h2>
+      
+      <h3 className="flex justify-center font-extrabold sub-h2">
+        <span className="text-amber font-black">LS Link:</span> &nbsp;<a className='underline no-shadows hover:text-slate-50' href="https://dlsu-vcf-csm.symplicity.com/profiles/pauljosef.agbuya" target="_blank">https://dlsu-vcf-csm.symplicity.com/profiles/pauljosef.agbuya </a>
+      </h3>
       <div className="card-default">
       <p className="intro-text ">Student committed with
 any tasks and aspiring to develop his
