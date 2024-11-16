@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
         backgroundImage: 'url(/fischl_bg.jpg)',
         backgroundRepeat: 'no-repeat',
         backgroundColor: '#20246B',
-        backgroundSize: 'contain'
+        backgroundSize: '100vw 100vh'
       }}>
 
         <Navbar />
