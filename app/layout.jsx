@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className} style={{ 
-        backgroundImage: 'url(/fischl_bg.jpg)',
+        backgroundImage: 'url(fischl_bg.jpg)',
         backgroundRepeat: 'no-repeat',
         backgroundColor: '#20246B',
         backgroundSize: '100vw 100vh'
