@@ -12,13 +12,13 @@ export default function Acad_Works() {
           1.) C Program CLI Checker Project
         </h2>
         <div className="flex flex-row gap-5 justify-center mb-5">
-            <Image src={"/checkers_1.png"} alt="temp" width={400} height={400}/>
-            <Image src={"/checkers_2.png"} alt="temp" width={400} height={400}/>
+            <Image src={"checkers_1.png"} alt="temp" width={400} height={400}/>
+            <Image src={"checkers_2.png"} alt="temp" width={400} height={400}/>
 
           </div>
           <div className="flex flex-row gap-5 justify-center">
-            <Image src={"/checkers_3.png"} alt="temp" width={400} height={400}/>
-            <Image src={"/checkers_4.png"} alt="temp" width={400} height={400}/>
+            <Image src={"checkers_3.png"} alt="temp" width={400} height={400}/>
+            <Image src={"checkers_4.png"} alt="temp" width={400} height={400}/>
           </div>
 
         <h2 className="m-5 flex font-extrabold text-2xl white-text-shadow">
@@ -27,9 +27,9 @@ export default function Acad_Works() {
         
         
         <div className="flex flex-row gap-5 justify-center mb-5">
-            <Image src={"/arhela_1.png"} alt="temp" width={300} height={600}/>
-            <Image src={"/arhela_2.png"} alt="temp" width={300} height={600}/>
-            <Image src={"/arhela_3.png"} alt="temp" width={300} height={600}/>
+            <Image src={"arhela_1.png"} alt="temp" width={300} height={600}/>
+            <Image src={"arhela_2.png"} alt="temp" width={300} height={600}/>
+            <Image src={"arhela_3.png"} alt="temp" width={300} height={600}/>
           </div>
           <h2 className="m-5 flex font-extrabold text-2xl white-text-shadow">
           3.) Java Object Oriented Vending Machine
@@ -37,8 +37,8 @@ export default function Acad_Works() {
         
         
           <div className="flex flex-row gap-5 justify-center mb-5">
-            <Image src={"/vend_1.png"} alt="temp" width={500} height={500}/>
-            <Image src={"/vend_2.png"} alt="temp" width={500} height={500}/>
+            <Image src={"vend_1.png"} alt="temp" width={500} height={500}/>
+            <Image src={"vend_2.png"} alt="temp" width={500} height={500}/>
           </div>
 
           <h2 className="m-5 flex font-extrabold text-2xl white-text-shadow">
@@ -47,9 +47,9 @@ export default function Acad_Works() {
         
         
           <div className="flex flex-row gap-5 justify-center mb-5">
-            <Image src={"/datamod_1.png"} alt="temp" width={300} height={600}/>
-            <Image src={"/datamod_2.png"} alt="temp" width={300} height={600}/>
-            <Image src={"/datamod_3.png"} alt="temp" width={300} height={600}/>
+            <Image src={"datamod_1.png"} alt="temp" width={300} height={600}/>
+            <Image src={"datamod_2.png"} alt="temp" width={300} height={600}/>
+            <Image src={"datamod_3.png"} alt="temp" width={300} height={600}/>
           </div>
 
           <h2 className="m-5 flex font-extrabold text-2xl white-text-shadow">
@@ -58,7 +58,7 @@ export default function Acad_Works() {
         
         
           <div className="flex flex-row gap-5 justify-center mb-5">
-            <Image src={"/ux_design.png"} alt="temp" width={1200} height={800}/>
+            <Image src={"ux_design.png"} alt="temp" width={1200} height={800}/>
             
           </div>
           <div className="justify-center flex">
@@ -72,7 +72,7 @@ export default function Acad_Works() {
         
         <div className="flex gap-5 justify-center mb-5">
 
-          <Image src={"/pers_2.png"} alt="temp" width={800} height={600}/>
+          <Image src={"pers_2.png"} alt="temp" width={800} height={600}/>
           
           
         </div>
@@ -82,7 +82,7 @@ export default function Acad_Works() {
         </div>
         <div className="mt-5 flex gap-5 justify-center mb-5">
 
-        <Image src={"/pers_1.png"} alt="temp" width={800} height={600}/>
+        <Image src={"pers_1.png"} alt="temp" width={800} height={600}/>
         
       </div>
 

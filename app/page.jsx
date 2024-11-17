@@ -8,7 +8,7 @@ export default function Home() {
     <main  className="py-6 backdrop-contrast-75" style={{backgroundColor: 'rgba(213,81,162,0.8)' }}>
 
       <div className="flex justify-center">
-        <img src={'/intro_img.jpg'} alt="Paul Main Picture" width={300} height={900}/>
+        <img src={'intro_img.jpg'} alt="Paul Main Picture" width={300} height={900}/>
       </div>
       <br />
       
